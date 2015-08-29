@@ -1,6 +1,14 @@
 # input-style-css3
 Style for Checkbox and Radio with CSS3
 
+##CSS
+```html
+<head>
+    <!-- ... -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+```
+
 ##HTML
 * Checkbox
 ```html
